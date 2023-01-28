@@ -158,7 +158,7 @@ public static void main(String[] args) {
     }
 
 
-    //OPTIONAL BONUS:
+ 
     // method to add a video game in alphabetical order of game titles
      /*    
      add new game in alphabetical order of game titles
